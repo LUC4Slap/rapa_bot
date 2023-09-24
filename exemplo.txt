@@ -1,0 +1,18 @@
+{
+    'imagens': [
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bc36e192.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bc27817f.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bbdca6f5.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bbca879d.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bbbb4a3c.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bbad5e3e.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bba1c049.jpeg',
+        'https://www.hotms.com.br/assinante/_lib/file/img/anuncios/13279/64df8bb9363e7.jpeg'],
+    'nome': '\nPROMOÇÃO DE RAPIDINHA ',
+    'idade': '19 Anos / Campo Grande MS \nMulher \nRef: 13279',
+    'horarios': 'Disponível: 50,00 15 min \n80,00 meia hr \n150,00 uma hr',
+    'valor': '50,00',
+    'descricao': 'DESCRIÇÃO: VALORES \n50,00 rapidinha 15 min\n80,00 meia hr \n150,00 uma hr',
+    'videos': [],
+    'link_anuncio': 'https://www.hotms.com.br/acompanhantes-campo-grande-ms/promoo-de-rapidinha-13279'
+}
